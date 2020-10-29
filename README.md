@@ -44,7 +44,5 @@ BroadCast Upload Extension在iOS10的时候推出，用于系统录屏的插件�
 
 ![发现页面识别度97%](https://user-gold-cdn.xitu.io/2019/11/20/16e89226709b18d1?w=1000&h=722&f=jpeg&s=102135)
 
-![我的页面识别度100%](https://user-gold-cdn.xitu.io/2019/11/20/16e89226708dab49?w=1000&h=765&f=jpeg&s=119358)
-
 可以看到，在模型训练好的情况下，实时录屏的识别度是非常高的，配合服务端OCR可以获取任何出现在屏幕上的内容。
 
